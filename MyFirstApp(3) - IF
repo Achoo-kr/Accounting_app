@@ -7,6 +7,7 @@ public class AccountingIFApp {
 		double VatRate = 0.1;
 		double expenseRate=0.3;
 		double VAT = ValueOfSupply*VatRate;
+		double total = ValueOfSupply + VAT;
 		double Expense = ValueOfSupply*expenseRate;
 		double Income = ValueOfSupply - Expense;
 		
