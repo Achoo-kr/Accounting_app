@@ -29,9 +29,9 @@ public class AccountingIFApp {
 		System.out.println("Total :"+ total);
 		System.out.println("Expense :"+Expense);
 		System.out.println("Income :"+Income);
-		System.out.println("Dividend :"+Dividend1);
-		System.out.println("Dividend :"+Dividend2);
-		System.out.println("Dividend :"+Dividend3);
+		System.out.println("Dividend1 :"+Dividend1);
+		System.out.println("Dividend2 :"+Dividend2);
+		System.out.println("Dividend3 :"+Dividend3);
 
 	}
 
